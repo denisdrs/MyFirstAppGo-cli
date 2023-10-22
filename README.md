@@ -1,21 +1,23 @@
 
-
-# How to
-
-Breve exemplo de como usar o app discover
+# Discover é um simples aplicativo de linha de comando.
 
 
 
 
 
+## Funcionalidades
 
-#### Como usar
+- Obter informações de um servidor na internet
+- hostname e IP.
 
-```http
-  ./discover parametro --Flag
 
-  exemplo discover ip --host kernel.org
+
+## Uso/Exemplos
+
 ```
+discover ip --host kernel.org
+```
+
 
 | Parâmetro   | Flag       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
@@ -37,5 +39,4 @@ Breve exemplo de como usar o app discover
 
 ## Referência
 
- - [Urfave/CLI](https://github.com/urfave/cli)
-
+ - [Urfave/CLI](github.com/urfave/cli)
