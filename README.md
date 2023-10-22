@@ -44,4 +44,4 @@ discover ip --host kernel.org
 
 
 ## Linguagem utilizada
-[![MIT License](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
