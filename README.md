@@ -37,5 +37,5 @@ Breve exemplo de como usar o app discover
 
 ## Referência
 
- - [Urfave/CLI](github.com/urfave/cli)
+ - [Urfave/CLI](https://github.com/urfave/cli)
 
