@@ -12,7 +12,7 @@ Breve exemplo de como usar o app discover
 #### Como usar
 
 ```http
-  # ./discover parametro --Flag
+  ./discover parametro --Flag
 
   exemplo discover ip --host kernel.org
 ```
