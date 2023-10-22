@@ -37,6 +37,11 @@ discover ip --host kernel.org
 - [@denisdrs](https://github.com/denisdrs)
 
 
-## Referência
+## Referências
 
  - [Urfave/CLI](github.com/urfave/cli)
+
+
+
+## Linguagem utilizada
+[![MIT License](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://choosealicense.com/licenses/mit/)
