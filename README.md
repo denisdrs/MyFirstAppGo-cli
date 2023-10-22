@@ -39,7 +39,7 @@ discover ip --host kernel.org
 
 ## Referências
 
- - [Urfave/CLI](github.com/urfave/cli)
+ - [Urfave/CLI](https://github.com/urfave/cli)
 
 
 
